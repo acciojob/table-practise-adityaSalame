@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
-table{
-	border-color:black;
+table,td,th{
+	border:1px solid black;
+	
 	font-size:30px;
 	background:yellow;
 }
