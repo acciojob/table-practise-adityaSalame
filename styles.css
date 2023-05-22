@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+table{
+	border-color:black;
+	font-size:30px;
+	background:yellow;
+}
